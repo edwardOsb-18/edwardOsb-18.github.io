@@ -1,1 +1,0 @@
-# esto es ua practica
