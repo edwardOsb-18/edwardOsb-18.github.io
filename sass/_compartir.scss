@@ -1,0 +1,22 @@
+%compartir{
+color: gray;
+font-size: 20px;
+text-align: center;
+
+
+}
+
+
+.edward{
+
+ @extend %compartir ;
+    color: greenyellow;
+    background-color: indigo;
+}
+
+.osbert{
+    @extend %compartir  ;
+   
+    background-color:lightblue;
+
+}

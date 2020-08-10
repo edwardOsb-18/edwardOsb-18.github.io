@@ -1,0 +1,40 @@
+.contenido{
+    
+
+    .contenido__titulo{
+
+        color: $titulo_1;
+        font-size: $tiulo_1tamaño;
+        font-weight: map-get($gruesor,"grueso");
+
+    }
+
+     &__1parrafo{
+
+          color: blue;
+          font-size: 16px;
+          font-weight: map-get($gruesor,"normal");
+          
+
+          &:hover{
+            background-color: green;
+          }
+
+     }
+
+  
+
+}
+
+
+
+
+
+.demo{
+    @include titulos($titulo_1,$tiulo_1tamaño,map-get($gruesor,"normal"));
+    color: pink;
+    
+    }
+
+
+

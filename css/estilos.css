@@ -1,0 +1,79 @@
+.contenido .contenido__titulo {
+  color: red;
+  font-size: 22px;
+  font-weight: 900; }
+.contenido__1parrafo {
+  color: blue;
+  font-size: 16px;
+  font-weight: 500; }
+  .contenido__1parrafo:hover {
+    background-color: green; }
+
+.demo {
+  color: red;
+  font-size: 22px;
+  font-weight: 500;
+  color: pink; }
+
+.cuerpo .cuerpo__titulo {
+  color: red;
+  font-size: 22px;
+  font-weight: 900; }
+.cuerpo__1parrafo {
+  color: green;
+  font-size: 16px;
+  font-weight: 500; }
+  .cuerpo__1parrafo:hover {
+    background-color: green; }
+
+.cuerpo_2parrafo {
+  color: red;
+  font-size: 22px;
+  font-weight: 500; }
+
+.cuerpo_3parrafo {
+  color: green; }
+
+.edward, .osbert {
+  color: gray;
+  font-size: 20px;
+  text-align: center; }
+
+.edward {
+  color: greenyellow;
+  background-color: indigo; }
+
+.osbert {
+  background-color: lightblue; }
+
+.dd {
+  color: blue; }
+
+.icon-40px {
+  font-size: 40px;
+  height: 40px;
+  width: 40px; }
+
+.icon-50px {
+  font-size: 50px;
+  height: 50px;
+  width: 50px; }
+
+.icon-80px {
+  font-size: 80px;
+  height: 80px;
+  width: 80px; }
+
+ul:nth-child(3n + 1) {
+  background-color: #004080; }
+
+ul:nth-child(3n + 2) {
+  background-color: #004d99; }
+
+ul:nth-child(3n + 3) {
+  background-color: #0059b3; }
+
+.ss {
+  font-size: 36px; }
+
+/*# sourceMappingURL=estilos.css.map */

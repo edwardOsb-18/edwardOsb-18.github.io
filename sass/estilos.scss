@@ -1,0 +1,36 @@
+@import "variables";
+@import"mixin";
+@import "contenedor";
+@import "cuerpo";
+@import"compartir";
+
+.dd{
+    color: blue;
+}
+$sizes: 40px, 50px, 80px;
+@each $size in $sizes {
+    .icon-#{$size} {
+      font-size: $size;
+      height: $size;
+      width: $size;
+    }
+  }
+  $base-color: #036;
+
+@for $i from 1 through 3 {
+  ul:nth-child(3n + #{$i}) {
+    background-color: lighten($base-color, $i * 5%);
+  }
+}
+
+@function osb($ancho,$largo){
+
+$total:$ancho - $largo;
+
+    @return $total;
+}
+
+.ss{
+font-size: osb(20px,2px) *2;
+
+}
