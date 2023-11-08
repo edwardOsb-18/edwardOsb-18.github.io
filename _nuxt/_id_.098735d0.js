@@ -1,0 +1,1 @@
+import{u as o,c as a,a as e,t as s,n,o as r}from"./entry.355a58bb.js";const i=e("p",null,"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore inventore qui ullam at est. Repellat provident hic nam unde.",-1),d={__name:"[id]",setup(l){const t=o().params.id;return(c,p)=>(r(),a("div",null,[e("h1",null,"hola "+s(n(t)),1),i]))}};export{d as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t,a as e}from"./entry.2683a498.js";const n={},c=e("h2",null,"index2",-1),_=e("p",null,"Lorem ipsum dolor sit.",-1),r=[c,_];function a(d,i){return t(),s("div",null,r)}const u=o(n,[["render",a]]);export{u as default};

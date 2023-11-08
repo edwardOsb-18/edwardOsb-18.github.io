@@ -1,0 +1,1 @@
+import{_ as d,c as o,o as s,a as e}from"./entry.355a58bb.js";const t={},c=e("h2",null," osbedwarddddddddddd",-1),n=e("p",null,"Lorem ipsum dolor sit.",-1),r=[c,n];function _(a,l){return s(),o("div",null,r)}const u=d(t,[["render",_]]);export{u as default};

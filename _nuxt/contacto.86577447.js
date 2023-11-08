@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as n,a as e}from"./entry.2683a498.js";const c={},s=e("h1",null,"edward",-1),a=e("p",null,"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore inventore qui ullam at est. Repellat provident hic nam unde.",-1),r=[s,a];function i(l,_){return n(),o("div",null,r)}const u=t(c,[["render",i]]);export{u as default};
